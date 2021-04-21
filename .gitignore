@@ -1,0 +1,4 @@
+#Exclude this files
+*.txt
+*.zip
+*.doc
